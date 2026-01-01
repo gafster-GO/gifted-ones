@@ -32,6 +32,7 @@ github_username:  jekyll
 #theme: jekyll-theme-architect
 #theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
+#color_scheme: dark
 plugins:
   - jekyll-remote-theme
 
