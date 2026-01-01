@@ -7,6 +7,6 @@ categories: jekyll update
 ---
 
 
-![Image]({{"/docs/images/fusion1.jpg" | relative_url }})
+![Image]({{"/images/fusion1.jpg" | relative_url }})
 
 With this setup Fusion can hit the ball a long way at high altitude so Conspiracy is used to reduce wind.

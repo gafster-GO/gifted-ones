@@ -6,5 +6,5 @@ layout: home
 #layout: default
 ---
 
-![Image]({{"/docs/images/home1.webp" | relative_url }})
+![Image]({{"/images/home1.webp" | relative_url }})
 
