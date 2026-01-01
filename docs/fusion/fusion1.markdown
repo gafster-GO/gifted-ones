@@ -9,4 +9,4 @@ categories: jekyll update
 
 ![Image]({{"/images/fusion1.jpg" | relative_url }})
 
-This bag can hit the ball a long way at high altitude so Conspiracy is used to reduce wind.
+With this setup Fusion can hit the ball a long way at high altitude so Conspiracy is used to reduce wind.

@@ -4,5 +4,7 @@
 
 layout: home
 #layout: default
-list_title: ' '
 ---
+
+![Image]({{"/images/home1.webp" | relative_url }})
+
