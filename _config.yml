@@ -35,6 +35,7 @@ remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 plugins:
   - jekyll-remote-theme
+  - jekyll-default-layout
 
 #include: [images]
 # Exclude from processing.
