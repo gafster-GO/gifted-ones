@@ -5,7 +5,9 @@ title:  "Windstrike low bounce par 3"
 parent: "Windstrike Bags"
 categories: jekyll update
 ---
-
+<div class="searchable-hidden" style="display:none;">
+Gearshift, Windstrike, Cyclotron, Meteor, Maelstrom
+</div>
 
 ![Image]({{"/images/windstrike-low-bounce-par-3.jpg" | relative_url }})
 

@@ -5,7 +5,9 @@ title:  "Fusion 1"
 parent: "Fusion Bags"
 categories: jekyll update
 ---
-
+<div class="searchable-hidden" style="display:none;">
+Steadfast, Meteor, Fusion, Homecoming, Conspiracy
+</div>
 
 ![Image]({{"/images/fusion1.jpg" | relative_url }})
 
